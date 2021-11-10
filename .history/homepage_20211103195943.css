@@ -1,0 +1,22 @@
+.button-center {
+    text-align: center;
+  }
+
+.viewMore {
+    display: flex;
+    vertical-align: middle;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.gmap{
+  display: flex;
+  vertical-align: middle;
+}
+
+ul li{
+  font-size:8px;
+ }
